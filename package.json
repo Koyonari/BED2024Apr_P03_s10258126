@@ -1,7 +1,10 @@
 {
   "dependencies": {
+    "body-parser": "^1.20.2",
     "chalk": "4.1.2",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "joi": "^17.13.1",
+    "mssql": "^10.0.2"
   },
   "name": "bed2024apr_p03_s10258126",
   "version": "1.0.0",
@@ -11,8 +14,9 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "---\r This repository showcases my weekly assignments and practicals made in `Node.JS` and other frameworks.",
   "devDependencies": {
     "nodemon": "^3.1.0"
-  }
+  },
+  "keywords": []
 }
